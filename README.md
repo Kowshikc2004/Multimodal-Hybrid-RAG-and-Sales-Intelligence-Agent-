@@ -111,7 +111,7 @@ GOOGLE_API_KEY="AIzaSy..."
 # Chroma Cloud Credentials
 CHROMA_API_KEY="chr-..."
 CHROMA_TENANT="default"
-CHROMA_DATABASE="Jokaan_RAG_exe"
+CHROMA_DATABASE="CHROMA_BASE"
 
 # LLM Configuration
 # Optional: Set provider to "ollama" for offline mode, defaults to "gemini"
