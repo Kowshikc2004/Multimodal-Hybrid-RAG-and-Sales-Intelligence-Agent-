@@ -124,7 +124,7 @@ USE_VISUAL_PARSING=true
 VISUAL_PARSING_CACHE_DIR="./.cache/visual_pdf"
 
 # Local Data Source Path
-LOCAL_DATA_DIR="./JOKAAN-PORTFOLIO NOV2025-v2.pdf"
+LOCAL_DATA_DIR="./the-files-the-to-be-fed.pdf"
 
 # RAG API Integration URL (Optional for app_gui.py remote mode)
 RAG_API_URL="http://127.0.0.1:8000"
